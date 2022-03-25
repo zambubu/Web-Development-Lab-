@@ -1,0 +1,40 @@
+/* Write your CSS here */
+
+ .index{
+     color: lightgreen;
+ }
+
+ #index{
+     background-color: beige;
+     font-size: 25px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-style: italic;
+ }
+/* Styling CSS for unordered list */
+
+ul {
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+}
+
+/* Styling CSS for links */
+
+.btn {
+    text-decoration: none;
+}
+
+a:link {
+    color: blue;
+}
+a:visited {
+    color: black ;
+}
+
+a:hover {
+    color: purple;
+}
+
+a:active {
+    color: hotpink;
+}
